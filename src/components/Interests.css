@@ -1,0 +1,11 @@
+.Interests > p {
+  text-align: left;
+  width: 350px;
+  margin-left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.Interests > h1 {
+  margin-right: 50%;
+  color: white;
+}

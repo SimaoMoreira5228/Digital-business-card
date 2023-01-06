@@ -1,0 +1,15 @@
+.About{
+  padding: 20px;
+}
+
+.About > p {
+  text-align: left;
+  width: 350px;
+  margin-left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.About > h1 {
+  margin-right: 64%;
+  color: white;
+}

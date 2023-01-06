@@ -1,0 +1,15 @@
+.Footer {
+  background: #161619;
+  width: 35%;
+  height: 100%;
+  margin-left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.Footer > a > img {
+  display: inline;
+  justify-content: space-between;
+  margin: 1rem 1rem;
+  width: 6%;
+  height: 6%;
+}
